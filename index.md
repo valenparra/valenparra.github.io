@@ -4,8 +4,9 @@ Welcome to my Data Science portfolio! This repository contains some examples of 
 
 ## About Me
 
-My name is Valentin Miguel Parra Carrascosa, I am a mechanical engineer, working as a data scientist in Paris for EDF (Électricité de France), with 5 years of experience in leveraging data to drive insights and make informed decisions, during 3 years as a Data Analyst, and the last 2 years as a Data Scientist. My expertise in data includes machine learning, data visualization, statistical analysis, deep learning (computer vision, natural language processing), and more. 
-I have a background in the energy business, having worked for EDF since 2010 on multiple roles: rotating machines contracts technical manager, process engineer, tests engineer, and responsible for project design, for thermal and nuclear engineering business units.
+My name is Valentin Miguel Parra Carrascosa, I am a mechanical engineer, working as a data scientist in Paris in the energy business, with 5 years of experience in leveraging data to drive insights and make informed decisions: during 3 years as a Data Analyst, and the last 2 years as a Data Scientist. 
+My expertise in data includes machine learning, data visualization, statistical analysis, deep learning (computer vision, natural language processing), and more. 
+I have a background in the energy business, having worked since 2010 on multiple roles: rotating machines contracts technical manager, process engineer, tests engineer, and responsible for project design, for thermal and nuclear engineering business units.
 
 ## Projects
 
