@@ -1,123 +1,52 @@
----
-layout: default
----
+# Data Scientist Portfolio
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Welcome to my Data Science portfolio! This repository contains some examples of the Data Science projects and code samples I have done for academic, self-learning and hobby purposes. 
 
-[Link to another page](./another-page.html).
+## About Me
 
-There should be whitespace between paragraphs.
+My name is Valentin Miguel Parra Carrascosa, I am a mechanical engineer, working as a data scientist in Paris for EDF (Électricité de France), with 5 years of experience in leveraging data to drive insights and make informed decisions, during 3 years as a Data Analyst, and the last 2 years as a Data Scientist. My expertise in data includes machine learning, data visualization, statistical analysis, deep learning (computer vision, natural language processing), and more. 
+I have a background in the energy business, having worked for EDF since 2010 on multiple roles: rotating machines contracts technical manager, process engineer, tests engineer, and responsible for project design, for thermal and nuclear engineering business units.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Projects
 
-# Header 1
+### Project 1: Prognosis (work in progress)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+- **Description:** The objective of this project is to develop a robust prognostics model that predicts the remaining useful life (RUL) or failure probability of Commercial Modular Aero-Propulsion System based on engine degradation simulation data, obtained using the Commercial Modular Aero-Propulsion System Simulation (C-MAPSS). The aim is to enable proactive maintenance strategies, reduce downtime, and optimize resource allocation.
+- **Technologies Used:** Kaplan-Meier survival curves, Cox proportional hazards model. Used libraries: scikit-survival, lifelines, ProgPy 
+- **GitHub Repository:** [Link to the GitHub repository.](https://github.com/valenparra/prognostics)
+- **Demo/Documentation:** (work in progress)
 
-## Header 2
+More projects to come : 
+- Plant species and diseases identification using leafs images
+- Semantic search model: search engine to retrieve the most relevant documents when looking for a certain subject
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Skills
 
-### Header 3
+- Data Analysis
+- Machine Learning
+- Data Visualization
+- Statistical Analysis
+- Python Programming
+- SQL
+- PySpark
+- Natural Language Processing
+- Time series
+- Prognosis
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## Certifications
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+- Data Scientist - DataScientest Mines ParisTech Executive Education
+- Data Analyst - Université Paris-Saclay
+- Digital Expert - Global Knowledge
 
-#### Header 4
+## Education
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+- **Degree:** Mechanical Engineer
+- **University:** Universidad Politécnica de Madrid
+- **Graduation Year:** 2009
 
-##### Header 5
+## Open to opportunities
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+I am open to opportunities for Data Scientist positions in Madrid, where I can leverage my skills and experience to tackle challenging problems, drive data-driven decision-making, and contribute to the success of innovative projects. I am particularly interested in roles that involve machine learning, predictive modeling, data visualization, webapp developping, and actionable insights generation.
 
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+If you have any suitable openings or would like to discuss potential collaborations, please feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/valentin-miguel-p-b529a617/?locale=en_US) or [email](valenparra@yahoo.es). I am looking forward to connecting with you!
