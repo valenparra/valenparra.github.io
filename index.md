@@ -10,7 +10,7 @@ I have a background in the energy business, having worked since 2010 on multiple
 
 ## Projects
 
-### Project 1: Prognosis (work in progress)
+### Project 1: Prognostics (work in progress)
 
 - **Description:** The objective of this project is to develop a robust prognostics model that predicts the remaining useful life (RUL) or failure probability of Commercial Modular Aero-Propulsion System based on engine degradation simulation data, obtained using the Commercial Modular Aero-Propulsion System Simulation (C-MAPSS). The aim is to enable proactive maintenance strategies, reduce downtime, and optimize resource allocation.
 - **Technologies Used:** Kaplan-Meier survival curves, Cox proportional hazards model. Used libraries: scikit-survival, lifelines, ProgPy 
